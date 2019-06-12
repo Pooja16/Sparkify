@@ -7,10 +7,10 @@ The goal of the project is to predict the churn rate of Sparkify. The dataset pr
  
 ## Table of Contents:
 
-- [Code in Python]( https://github.com/Pooja16/Predicting-Offer-Success-for-Starbucks/blob/master/Starbucks_Capstone_notebook.ipynb)
+- [Code in Python]( https://github.com/Pooja16/Sparkify/blob/master/Sparkify.ipynb)
 This python file has all the code that was used to put through the entire analysis. 
 
-- [Dataset]( s3n://udacity-dsnd/sparkify/sparkify_event_data.json)
+- [Dataset] ( https://s3n://udacity-dsnd/sparkify/sparkify_event_data.json)
 This includes the dataset hosted on Amazon s3 that was used for the analysis.
 
 ## Summary of results of analysis:
